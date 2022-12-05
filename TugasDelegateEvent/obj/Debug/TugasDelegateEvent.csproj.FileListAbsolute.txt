@@ -1,0 +1,34 @@
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.exe.config
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.exe
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.pdb
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.csprojAssemblyReference.cache
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Properties.Resources.resources
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.csproj.GenerateResource.cache
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.csproj.CoreCompileInputs.cache
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.exe
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.pdb
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Hasil.resources
+C:\Users\MeiZa\Documents\Visual Studio 2019\Project\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Kalkulator.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pertemuan 8\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.exe.config
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pertemuan 8\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pertemuan 8\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pertemuan 8\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pertemuan 8\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.csproj.SuggestedBindingRedirects.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pertemuan 8\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Kalkulator.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pertemuan 8\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pertemuan 8\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pertemuan 8\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pertemuan 8\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pertemuan 8\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Pertemuan 8\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.HasilOperasi.resources
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.exe.config
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.exe
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.pdb
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.csproj.AssemblyReference.cache
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.HasilOperasi.resources
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Kalkulator.resources
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Properties.Resources.resources
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.csproj.GenerateResource.cache
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.csproj.CoreCompileInputs.cache
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.exe
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.pdb

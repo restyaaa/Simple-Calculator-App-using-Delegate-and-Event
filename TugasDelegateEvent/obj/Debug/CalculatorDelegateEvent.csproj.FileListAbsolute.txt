@@ -1,0 +1,10 @@
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.exe.config
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.exe
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\bin\Debug\TugasDelegateEvent.pdb
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.HasilOperasi.resources
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Kalkulator.resources
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.Properties.Resources.resources
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\obj\Debug\CalculatorDelegateEvent.csproj.GenerateResource.cache
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\obj\Debug\CalculatorDelegateEvent.csproj.CoreCompileInputs.cache
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.exe
+F:\'\SEMESTER 3\PEMROGRAMAN LANJUT\TUGAS\TugasDelegateEvent\obj\Debug\TugasDelegateEvent.pdb
